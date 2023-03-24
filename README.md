@@ -1,16 +1,7 @@
 # geo_locator_01
 
-A new Flutter project.
+<p>
+<img src="https://user-images.githubusercontent.com/118950801/227441292-83813bfc-8b26-4892-b4b7-5329d16c2d78.png"width=22%height=35%>
+<img src="https://user-images.githubusercontent.com/118950801/227441295-1f680682-ea70-463d-b76c-3fc43494b775.png"width=22%height=35%>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
